@@ -13,11 +13,11 @@ O objetivo deste desafio é criar um componente de cartão de blog responsivo, u
 
 ## Como executar
 
-1. Clone o repositório:
+1. **Clone o repositório**:
     ```bash
     git clone https://github.com/seu-usuario/blog-card.git
     ```
-2. Abra o arquivo `index.html` em seu navegador.
+2. **Abra o arquivo `index.html` em seu navegador.**
 
 ## Screenshots
 
