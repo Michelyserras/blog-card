@@ -1,7 +1,6 @@
 # Blog Card Challenge
 
-Este projeto é um desafio de desenvolvimento proposto pelo site [Great Frontend](https://www.greatfrontend.com/projects).
-Este repositório contém a solução para o desafio **Blog Card**.
+Este projeto é um desafio de desenvolvimento proposto pelo site [Great Frontend](https://www.greatfrontend.com/projects) e contém a solução para o desafio **Blog Card**.
 
 ## Descrição
 
