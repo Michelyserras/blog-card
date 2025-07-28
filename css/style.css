@@ -41,7 +41,7 @@ body {
   margin-top: 7.5rem;
   width: 21.25rem;
   height: auto;
-  border-radius: 0.6rem;
+  border-radius: 0.7rem;
   background-color: #ffff;
 }
 
@@ -58,10 +58,10 @@ body {
 }
 
 .rounded-full{
-  background-color: #bbf7d081;
+  background-color: #e7f8edda;
   width: 4rem;
   height: 1.5rem;
-  border: 1px solid #95e6b1;
+  border: 1px solid #abf1c4;
   color: #15803d; 
   justify-content: center;
   text-align: center;
@@ -87,13 +87,13 @@ body {
  display: inline-flex;
  align-items: center;
  color: #4338ca;
- font-weight: 600;
+ font-weight: 500;
  gap: 0.5rem;
 }
 .link a{
   font-size: 1rem;
 }
 .link #arrow-icon{
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   vertical-align: middle;
 }
