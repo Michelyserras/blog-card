@@ -41,13 +41,15 @@ body {
   margin-top: 7.5rem;
   width: 21.25rem;
   height: auto;
-  border-radius: 0.7rem;
+  border-radius: 0.5rem;
   background-color: #ffff;
 }
 
 .header-image {
+  height: 15.625rem;
+  width: 100%;
   object-fit: fill;
-  border-radius: 0.3135rem 0.3135rem 0 0;
+  border-radius: 0.5rem 0.5rem 0 0;
 }
 
 .content{
@@ -58,15 +60,15 @@ body {
 }
 
 .rounded-full{
-  background-color: #e7f8edda;
+  background-color: #bbf7d081;
   width: 4rem;
   height: 1.5rem;
-  border: 1px solid #abf1c4;
+  border: 1px solid #95e6b1;
   color: #15803d; 
-  justify-content: center;
   text-align: center;
   font-weight: 500;
   font-size: 0.8125rem;
+  margin-bottom: 0.5rem;
 }
 
 .title{
@@ -87,13 +89,13 @@ body {
  display: inline-flex;
  align-items: center;
  color: #4338ca;
- font-weight: 500;
+ font-weight: 600;
  gap: 0.5rem;
 }
 .link a{
   font-size: 1rem;
 }
 .link #arrow-icon{
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   vertical-align: middle;
 }
